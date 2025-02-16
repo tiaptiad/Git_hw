@@ -1,0 +1,17 @@
+
+1. Теория автоматизации тестирования 2. Системы контроля версия, Git, GitHub 3. 15 - Переменные, операторы
+4. J5 - Сравнение данных, if, switch
+5. J5 - Работа со string, number, for, while 6. J5 - Массивы, spread
+7. J5 - Функции
+8. J5 - Методы массивов, Set 9. J5 - Объекты
+10. J5 - Контекст this, замыкания
+11. J5 - ООР, работа с классами
+12. JS - Promises, Async functions, Event Loop
+13. ТЅ - Типы, Интерфейсы, базовая типизация
+14. ТЅ- Дженерики, классы
+15. TS-ES Modules, Code quality (ESlint, Prettier, Husky)
+16. АQА - Введение в автоматизацию, работа с селекторами (cѕѕ, XPath)
+17. АQА - Тестирование UI с селениумом (Webdriver10) 18. АQА - Тестирование UI с селениумом (Webdriver10) 19. АQА - Тестирование UI с селениумом (Webdriver10) 20. АQА - Построение TAF (test automation framework) 21. АQА - Построение TAF (test automation framework) 22. АQА - Конфиг, Репортинг
+23. АQА - Тестирование АРІ
+24. АQА - Тестирование АРІ
+25. AQA - BDD с использованием Cucumber 26. AQA - BDD с использованием Cucumber 27. АQА - Тестирование UI с Playwright 28. АQА - Тестирование UI с Playwright 29. АQА - Тестирование UI и API с Playwright 30. АQА - Интеграция с СІ/СD 31. AQA - Финальный проект
